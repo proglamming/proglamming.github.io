@@ -1,4 +1,4 @@
-pgroglamming.github.io
+proglamming.github.io
 ======================
 
 For the proglamming organization page.
